@@ -13,7 +13,7 @@ public class ArrayBoom {
 		
 		int a[]= {5,6,7,8,9};
 		int n=a.length;
-		System.out.println(n);
+		System.out.print(n);
 		
 		for(int i=0;i<n;i++) {
 			if(a[i]!=7) {
