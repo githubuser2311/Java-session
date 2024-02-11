@@ -1,6 +1,7 @@
 package com.training.practice;
 
 public class StringNumbers {
+	//Find the characters
 	public static boolean
     onlyDigits(String str, int n) 
     { 
